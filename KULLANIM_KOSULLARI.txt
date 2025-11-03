@@ -1,0 +1,571 @@
+================================================================================
+                        KULLANIM KOŞULLARI VE ŞARTLARI
+                    TABU SİGORTA ARACLIK HİZMETLERİ
+================================================================================
+
+Son Güncelleme: Ekim 2025
+Versiyon: 1.0
+
+================================================================================
+
+GENEL HÜKÜMLER VE UYARI
+
+Bu Kullanım Koşulları, Tabu Sigorta web sitesi ve hizmetlerinin kullanımına 
+ilişkin şartları düzenlemektedir. Web sitemizi ziyaret ederek, hizmetlerimizi 
+kullanarak veya bir işlem gerçekleştirerek bu Kullanım Koşullarını OKUDUĞUNUZU, 
+ANLADIĞINIZI ve KABUL ETTİĞİNİZİ BEYAN EDERSİNİZ.
+
+ÖNEMLİ: Kullanım Koşullarını kabul etmiyorsanız, lütfen web sitemizi ve 
+hizmetlerimizi KULLANMAYINIZ.
+
+================================================================================
+
+1. TARAFLAR VE TANIMLAR
+
+1.1. TARAFLAR
+
+A) Hizmet Sağlayıcı (Biz):
+   - Ticaret Unvanı: Tabu Sigorta Aracılık Hizmetleri
+   - E-posta: tabusigorta@gmail.com
+   - Telefon: 0538 218 4550
+
+B) Kullanıcı (Siz):
+   - Web sitemizi ziyaret eden, hizmetlerimizi kullanan veya sigorta teklifi 
+     alan her gerçek veya tüzel kişi
+
+1.2. TANIMLAR
+
+- "Platform" veya "Web Sitesi": Tabu Sigorta'nın internet üzerinden erişilebilen 
+  web sitesi ve mobil uygulamaları
+  
+- "Hizmetler": Tabu Sigorta tarafından sunulan sigorta aracılık hizmetleri, 
+  teklif alma, karşılaştırma, danışmanlık vb.
+  
+- "Sigorta Şirketi": Platform üzerinden teklifleri sunulan, anlaşmalı sigorta 
+  şirketleri
+  
+- "Kullanıcı Hesabı": Kullanıcıların platform üzerinde oluşturduğu kişisel hesap
+
+- "İçerik": Platform üzerindeki tüm metin, görsel, video, kod, tasarım vb. 
+  materyaller
+  
+- "Kişisel Veri": 6698 sayılı KVKK kapsamında işlenen kişisel bilgiler
+
+================================================================================
+
+2. HİZMETLERİN KAPSAMI VE NİTELİĞİ
+
+2.1. ARACILIK HİZMETİ
+
+⚠️ ÖNEMLİ: Tabu Sigorta, SİGORTA ARACILIK HİZMETİ sunmaktadır. 
+
+- Tabu Sigorta, sigorta sözleşmelerinin TARAFI DEĞİLDİR
+- Sigorta poliçeleri, sigorta şirketleri tarafından düzenlenir
+- Teminatlar, ödemeler ve hasar işlemleri SİGORTA ŞİRKETLERİNİN 
+  SORUMLULUĞUNDADIR
+- Tabu Sigorta, müşteriler ile sigorta şirketleri arasında ARACILIKTIR
+
+2.2. SUNULAN HİZMETLER
+
+✓ Sigorta teklifi alma ve karşılaştırma
+✓ Sigorta danışmanlığı hizmeti
+✓ Poliçe satın alma kolaylığı
+✓ Hasar bildirimi yönlendirmesi
+✓ Poliçe yenileme hatırlatmaları
+✓ Müşteri destek hizmetleri
+✓ Online teklif ve başvuru sistemleri
+
+2.3. HİZMET SINIRLAMALARI
+
+- Tüm sigorta şirketlerinin tekliflerini sunma garantisi yoktur
+- Teklifler, sigorta şirketlerinin onayına tabidir
+- Özel durumlar için ek belge ve inceleme gerekebilir
+- Bazı sigorta türleri platform üzerinden sunulamayabilir
+- Teknik sorunlar nedeniyle hizmetler geçici olarak kesintiye uğrayabilir
+
+================================================================================
+
+3. KULLANICI YÜKÜMLÜLÜKLERİ VE SORUMLULUKLAR
+
+3.1. BİLGİ DOĞRULUĞU
+
+Kullanıcı olarak:
+
+✓ Verdiğiniz tüm bilgilerin DOĞRU, GÜNCEL ve EKSİK OLMAMASI
+✓ Yanıltıcı, yanlış veya sahte bilgi vermemek
+✓ Başkasının kimliğini kullanmamak
+✓ Bilgilerinizde değişiklik olduğunda derhal bildirmek
+
+⚠️ SORUMLULUK: Yanlış, eksik veya yanıltıcı bilgi verilmesinden doğacak 
+TÜM SONUÇLARDAN KULLANICI SORUMLUDUR. Bu durumda:
+- Sigorta şirketleri teklifi reddetme veya poliçeyi iptal etme hakkına sahiptir
+- Hasar durumunda tazminat ödemeyebilir
+- Hukuki ve cezai sorumluluk doğabilir
+- Tabu Sigorta hiçbir şekilde sorumlu TUTULAMAZ
+
+3.2. HESAP GÜVENLİĞİ
+
+Kullanıcı Hesabı oluşturduğunuzda:
+
+✓ Şifrenizi gizli tutmak
+✓ Hesabınızı yetkisiz kullanımdan korumak
+✓ Şüpheli aktiviteleri derhal bildirmek
+✓ Hesabınızdan yapılan tüm işlemlerden sorumlu olmak
+
+⚠️ Hesabınızdan yapılan tüm işlemler SİZ tarafından yapılmış sayılır.
+
+3.3. YASAK FAALİYETLER
+
+Kullanıcılar ASLA:
+
+✗ Platformu yasadışı amaçlarla kullanamaz
+✗ Platformun güvenliğini tehdit edemez (hacking, virüs vb.)
+✗ Başkalarının bilgilerini çalamaz veya kötüye kullanamaz
+✗ Spam veya rahatsız edici içerik gönderemez
+✗ Platform içeriğini izinsiz kopyalayamaz veya dağıtamaz
+✗ Otomatik sistemler (bot, crawler) kullanamaz
+✗ Platformu tersine mühendislik yaparak inceleyemez
+✗ Sahte hesap oluşturamaz
+✗ Dolandırıcılık veya yanıltıcı faaliyetlerde bulunamaz
+
+⚠️ YASAK FAALİYETLER DURUMUNDA:
+- Hesabınız derhal kapatılır
+- Hukuki işlem başlatılır
+- Sigorta Bilgi ve Gözetim Merkezi'ne (SBM) bildirilir
+- Yetkili makamlara şikayet edilir
+
+3.4. İLETİŞİM İZNİ
+
+Hizmetlerimizi kullanarak:
+
+✓ Tarafınıza telefon, e-posta, SMS ile bilgilendirme yapılmasını
+✓ Teklif ve poliçe bilgilerinin gönderilmesini
+✓ Önemli duyuruların iletilmesini
+
+KABUL ETMİŞ SAYILIRSINIZ.
+
+Pazarlama amaçlı iletişim için AYRI AÇIK RIZA gereklidir.
+
+================================================================================
+
+4. SORUMLULUK SINIRLAMALARI VE FERAGAT
+
+4.1. ARACILIK SORUMLULUĞU
+
+⚠️ TEMEL SORUMLULUK İLKESİ:
+
+Tabu Sigorta, YALNIZCA aracılık hizmeti kapsamındaki yükümlülüklerinden 
+sorumludur. Aşağıdaki konulardan SORUMLU DEĞİLDİR:
+
+✗ Sigorta şirketlerinin teklif reddetmesi
+✗ Sigorta şirketlerinin poliçe iptal etmesi
+✗ Sigorta şirketlerinin hasar ödemelerini reddetmesi veya geciktirmesi
+✗ Sigorta şirketlerinin teminat kapsamı dışındaki durumlar
+✗ Sigorta şirketlerinin iflası, tasfiyesi veya faaliyetlerini durdurması
+✗ Sigorta prim ödemelerinin gecikmesi veya yapılmaması
+✗ Kullanıcının yanlış, eksik veya yanıltıcı bilgi vermesi
+✗ Kullanıcının poliçe şartlarını okumamış olması
+✗ Kullanıcının sigorta kapsamını yanlış anlaması
+
+4.2. TEKNİK SORUMLULUK SINIRI
+
+Tabu Sigorta, aşağıdaki durumlardan sorumlu DEĞİLDİR:
+
+✗ Web sitesinin geçici olarak erişilememesi
+✗ Teknik aksaklıklar ve kesintiler
+✗ Sunucu arızaları
+✗ İnternet bağlantı sorunları
+✗ Siber saldırılar, virüsler, zararlı yazılımlar
+✗ Üçüncü taraf sistemlerin arızaları
+✗ Veri kayıpları (mücbir sebepler nedeniyle)
+
+4.3. İÇERİK SORUMLULUĞU
+
+✗ Web sitesindeki bilgilerin %100 doğru ve güncel olması garanti edilmez
+✗ Bilgiler genel nitelikli olup, kişiye özel danışmanlık yerine GEÇMEZ
+✗ Prim ve teminat bilgileri değişkenlik gösterebilir
+✗ Son onay sigorta şirketlerine aittir
+✗ Üçüncü taraf web sitelerine verilen linklerden Tabu Sigorta sorumlu değildir
+
+4.4. MÜCBİR SEBEPLER
+
+Aşağıdaki mücbir sebepler nedeniyle oluşan aksaklık, zarar veya kayıplardan 
+Tabu Sigorta SORUMLU TUTULAMAZ:
+
+- Doğal afetler (deprem, sel, yangın vb.)
+- Savaş, terör, iç karışıklık
+- Resmi otoritelerin işlemleri, yasaklar, kısıtlamalar
+- Elektrik kesintisi, internet kesintisi
+- Siber saldırılar, DDoS saldırıları
+- Genel grev, lokavt
+- Salgın hastalıklar, pandemi
+- Tarafların kontrolü dışındaki diğer olaylar
+
+4.5. TAZMİNAT SINIRI
+
+Tabu Sigorta'nın herhangi bir sebepten dolayı sorumlu tutulması durumunda, 
+ödenecek azami tazminat tutarı:
+
+- İlgili poliçe için alınan KOMİSYON TUTARI ile SINIRLIDIR
+- Dolaylı zararlar, kayıp kar, manevi zarar vb. TALEP EDİLEMEZ
+
+Bu sınırlama, kanunların zorunlu kıldığı durumlar hariçtir.
+
+================================================================================
+
+5. FİKRİ MÜLKİYET HAKLARI
+
+5.1. PLATFORM İÇERİĞİ
+
+Web sitesindeki tüm içerik (tasarım, logo, metin, kod, görsel, video vb.) 
+Tabu Sigorta'ya veya lisans verenlere aittir ve FIKRI MÜLKİYET HAKLARI 
+ile korunmaktadır.
+
+YASAKTIR:
+✗ İçeriği kopyalamak, çoğaltmak
+✗ Ticari amaçla kullanmak
+✗ Değiştirerek veya olduğu gibi dağıtmak
+✗ Tersine mühendislik yapmak
+✗ Platformun kaynak kodunu elde etmeye çalışmak
+
+İZİN VERİLENLER:
+✓ Kişisel kullanım için içeriği görüntüleme
+✓ Kendi sigorta işleminiz için bilgi alma
+✓ Yasal alıntı yapma (kaynak göstererek)
+
+5.2. KULLANICI İÇERİĞİ
+
+Platform üzerine yüklediğiniz içerikler (yorum, değerlendirme, belgeler vb.) 
+için Tabu Sigorta'ya aşağıdaki hakları vermiş olursunuz:
+
+✓ İçeriği kullanma, gösterme, işleme hakkı
+✓ İçeriği sigorta şirketleri ile paylaşma hakkı
+✓ İçeriği yasal yükümlülükler için saklama hakkı
+
+Ancak, içeriğinizin ticari mülkiyeti size aittir.
+
+5.3. MARKA HAKLARI
+
+"Tabu Sigorta" adı, logosu ve diğer markalar, Tabu Sigorta'nın tescilli 
+ticari markalarıdır. İzinsiz kullanımı YASAKTIR.
+
+================================================================================
+
+6. GİZLİLİK VE KİŞİSEL VERİLERİN KORUNMASI
+
+Kişisel verilerinizin işlenmesi, ayrı olarak hazırlanmış "KVKK Aydınlatma 
+Metni ve Gizlilik Politikası" tarafından düzenlenmektedir.
+
+Ana İlkeler:
+
+✓ Kişisel verileriniz 6698 sayılı KVKK'ya uygun işlenir
+✓ Verileriniz üçüncü kişilerle (sigorta şirketleri hariç) paylaşılmaz
+✓ Güvenlik önlemleri alınmıştır
+✓ Haklarınızı kullanabilirsiniz
+
+Detaylı bilgi için: KVKK Aydınlatma Metni'ni inceleyiniz.
+
+================================================================================
+
+7. POLIÇE SATIN ALMA VE ÖDEME
+
+7.1. SATIN ALMA SÜRECİ
+
+1. Teklif alma
+2. Teklifi inceleme ve karşılaştırma
+3. Teklifi onaylama
+4. Ödeme işlemi
+5. Poliçe düzenlenmesi (Sigorta Şirketi tarafından)
+6. Poliçe teslimatı
+
+7.2. ÖDEME ŞARTLARI
+
+✓ Ödeme, sigorta şirketi veya yetkilendirilmiş ödeme kuruluşuna yapılır
+✓ Ödeme yöntemleri: Kredi kartı, havale, EFT
+✓ Ödeme onayı sonrası poliçe düzenlenir
+✓ Fiyatlar sigorta şirketleri tarafından belirlenir
+✓ Tabu Sigorta, sigorta şirketinden komisyon alır
+
+7.3. İPTAL VE CAYMA HAKKI
+
+⚠️ SİGORTA SÖZLEŞMELERİ İÇİN:
+
+- 6502 sayılı Tüketicinin Korunması Hakkında Kanun'un 15. maddesi uyarınca 
+  sigorta sözleşmeleri CAYMA HAKKININ İSTİSNASINDADIR
+  
+- Ancak, Sigorta Kanunu'na göre:
+  * Poliçe başlangıcından ÖNCE iptal edilebilir (tam iade)
+  * Poliçe başladıktan SONRA iptal edilebilir (kullanılmayan gün kadar iade)
+  * İptal işlemi sigorta şirketi tarafından yapılır
+
+- Tabu Sigorta, iptal işleminde ARACILIK yapar, karar sigorta şirketine aittir
+
+7.4. İADE SÜRECİ
+
+✓ İade talebi sigorta şirketine iletilir
+✓ Sigorta şirketi tarafından değerlendirilir
+✓ Onaylanan iadeler, ödeme yapılan yönteme geri gönderilir
+✓ İade süresi sigorta şirketlerine göre değişir (genelde 7-14 gün)
+
+================================================================================
+
+8. POLIÇE YENİLEME VE HATIRLATMA
+
+8.1. OTOMATİK YENİLEME
+
+Bazı sigorta poliçeleri (özellikle araç sigortaları) otomatik yenileme 
+özelliğine sahiptir:
+
+⚠️ Otomatik yenileme, SİGORTA ŞİRKETİ tarafından yapılır
+⚠️ Tabu Sigorta, sadece hatırlatma ve bilgilendirme yapar
+⚠️ Yenilemeyi istemiyorsanız, süre bitmeden iptal etmelisiniz
+
+8.2. YENİLEME HATİRLATMALARI
+
+✓ Poliçe bitiş tarihi yaklaştığında bilgilendirme yapılır
+✓ E-posta, SMS veya telefon ile hatırlatma
+✓ Yeni teklif alma imkanı sunulur
+
+⚠️ Hatırlatma hizmeti TAAHHÜT değildir, teknik sorun nedeniyle 
+ulaşmayabilir. Poliçe takibi KULLANICI SORUMLULUĞUNDADIR.
+
+================================================================================
+
+9. HASAR İŞLEMLERİ
+
+9.1. HASAR BİLDİRİMİ
+
+Hasar durumunda:
+
+1. DERHAl SİGORTA ŞİRKETİNE bildirim yapın (poliçede belirtilen şekilde)
+2. Tabu Sigorta'ya da bilgi verin (isteğe bağlı, destek için)
+3. Gerekli belgeleri hazırlayın
+4. Sigorta şirketinin talimatlarını uygulayın
+
+9.2. HASAR TAKİBİ
+
+✓ Tabu Sigorta, hasar dosyanızın takibinde yardımcı olabilir
+✓ Sigorta şirketi ile iletişim kurabilir
+✓ Eksik belge durumunu bildirebilir
+
+⚠️ ANCAK:
+- Hasar kararı SİGORTA ŞİRKETİ tarafından verilir
+- Tazminat ödemesi SİGORTA ŞİRKETİ tarafından yapılır
+- Hasar reddi/kabulü SİGORTA ŞİRKETİNİN inisiyatifindedir
+- Tabu Sigorta, hasar kararlarından SORUMLU DEĞİLDİR
+
+================================================================================
+
+10. HİZMET BEDELİ VE KOMİSYON
+
+10.1. KULLANICI İÇİN ÜCRETSİZ HİZMET
+
+✓ Tabu Sigorta'nın tüm hizmetleri KULLANICI İÇİN ÜCRETSİZDİR
+✓ Teklif alma, karşılaştırma, danışmanlık ÜCRETSİZ
+✓ Kullanıcıdan ek bir ücret TALEP EDİLMEZ
+
+10.2. KOMİSYON SİSTEMİ
+
+✓ Tabu Sigorta, sigorta şirketlerinden KOMİSYON alır
+✓ Komisyon, sigorta priminin bir kısmıdır
+✓ Komisyon, kullanıcıya YANSITILMAZ
+✓ Prim tutarı, doğrudan satın alsanız da aynıdır
+
+================================================================================
+
+11. FESİH VE HESAPtIN KAPATILMASI
+
+11.1. KULLANICI TARAFINDAN FESİH
+
+Kullanıcı hesabını istediği zaman kapatabilir:
+
+- Hesap ayarlarından "Hesabı Kapat" seçeneği
+- E-posta ile talep: tabusigorta@gmail.com
+- Telefon ile talep: 0538 218 4550
+
+Hesap kapatıldığında:
+✓ Aktif poliçeleriniz etkilenmez (sigorta şirketinden devam eder)
+✓ Kişisel verileriniz yasal saklama süresi sonunda silinir
+✓ Geçmiş işlem kayıtları yasal yükümlülük nedeniyle saklanır
+
+11.2. TABU SİGORTA TARAFINDAN FESİH
+
+Tabu Sigorta, aşağıdaki durumlarda hesabınızı kapatma hakkına sahiptir:
+
+✗ Kullanım Koşullarını ihlal etmeniz
+✗ Yasadışı faaliyet tespit edilmesi
+✗ Dolandırıcılık şüphesi
+✗ Sahte bilgi kullanımı
+✗ Platform güvenliğini tehdit etmeniz
+✗ 12 ay boyunca hesabınızı kullanmamanız (pasif hesap)
+
+Hesap kapatma durumunda:
+- Önceden bildirim yapılabilir (acil durumlarda yapılmayabilir)
+- Hukuki süreç devam edebilir
+- Yeni hesap açmanız engellenebilir
+
+================================================================================
+
+12. UYUŞMAZLIK ÇÖZÜMÜ
+
+12.1. YETKİLİ MAHKEME VE İCRA DAİRESİ
+
+Bu Kullanım Koşullarından doğabilecek uyuşmazlıklarda:
+
+⚖️ İSTANBUL (MERKEZ) MAHKEMELERİ VE İCRA DAİRELERİ YETKİLİDİR
+
+⚖️ TÜRKİYE CUMHURİYETİ KANUNLARI UYGULANIR
+
+12.2. TÜKETİCİ UYUŞMAZLIKLARI
+
+Tüketici Mahkemesi başvuruları için:
+
+- İlçe Tüketici Sorunları Hakem Heyetleri
+- İl Tüketici Sorunları Hakem Heyetleri
+- Tüketici Mahkemeleri
+
+⚠️ SİGORTA UYUŞMAZLIKLARI İÇİN:
+
+Sigorta şirketi ile uyuşmazlık yaşamanız durumunda:
+1. Önce sigorta şirketine itiraz
+2. Sigorta Tahkim Komisyonu'na başvuru
+3. Mahkeme yolu
+
+12.3. ARABULUCULUK
+
+Taraflar, uyuşmazlıkları mahkemeye gitmeden önce arabuluculuk yoluyla 
+çözmeyi tercih edebilirler.
+
+================================================================================
+
+13. KULLANIM KOŞULLARINDA DEĞİŞİKLİK
+
+13.1. DEĞİŞİKLİK HAKKI
+
+Tabu Sigorta, bu Kullanım Koşullarını istediği zaman değiştirme, 
+güncelleme veya revize etme hakkını saklı tutar.
+
+13.2. BİLDİRİM
+
+Önemli değişiklikler:
+- Web sitesinde yayınlanır
+- E-posta ile bildirim yapılabilir
+- Kullanıcı hesabında uyarı gösterilir
+
+13.3. YÜRÜRLÜK
+
+Değişiklikler, web sitesinde yayınlandığı tarihte yürürlüğe girer.
+
+13.4. KABUL
+
+Değişikliklerden sonra platformu kullanmaya devam etmeniz, yeni 
+Kullanım Koşullarını KABUL ETTİĞİNİZ anlamına gelir.
+
+Kabul etmiyorsanız, platformu kullanmayı DURDURMANIZ gerekir.
+
+================================================================================
+
+14. GENEL HÜKÜMLER
+
+14.1. BÜTÜNLÜK
+
+Bu Kullanım Koşullarının herhangi bir maddesi geçersiz sayılırsa, 
+diğer maddeler geçerliliğini korur.
+
+14.2. FERAGATİN YORUMLANMASI
+
+Tabu Sigorta'nın herhangi bir hakkını kullanmaması, o haktan feragat 
+ettiği anlamına GELMEZ.
+
+14.3. DEVİR
+
+Kullanıcı, bu Kullanım Koşullarından doğan hak ve yükümlülüklerini 
+başkasına DEVREDEMEZ.
+
+Tabu Sigorta, hak ve yükümlülüklerini üçüncü kişilere devredebilir 
+(şirket birleşmesi, devri vb.).
+
+14.4. TAM ANLAŞMA
+
+Bu Kullanım Koşulları, taraflar arasındaki tam anlaşmayı oluşturur ve 
+önceki tüm sözlü veya yazılı anlaşmaların yerini alır.
+
+14.5. BAŞLIKLAR
+
+Başlıklar sadece kolaylık içindir, yasal bağlayıcılığı yoktur.
+
+14.6. DİL
+
+Bu Kullanım Koşullarının Türkçe versiyonu geçerlidir. Çeviri 
+versiyonlar sadece bilgi amaçlıdır.
+
+================================================================================
+
+15. İLETİŞİM
+
+Kullanım Koşulları ile ilgili sorularınız için:
+
+📧 E-posta: tabusigorta@gmail.com
+📞 Telefon: 0538 218 4550
+🕒 Çalışma Saatleri: Hafta içi 09:00 - 18:00
+
+Yazılı başvuru için:
+Tabu Sigorta - Kullanım Koşulları Birimi
+(Adres bilgisi eklenecek)
+
+================================================================================
+
+16. KABUL VE ONAY
+
+İşbu Kullanım Koşullarını okudum, anladım ve kabul ediyorum.
+
+Platform'u kullanmaya başlayarak veya hizmetlerden faydalanarak bu 
+Kullanım Koşullarını elektronik ortamda KABUL ETMİŞ SAYILIRSINIZ.
+
+Tarih: ..... / ..... / .........
+
+Kullanıcı: ............................
+
+IP Adresi: ............................ (Otomatik kaydedilir)
+
+================================================================================
+
+YASAL BEYAN
+
+Bu Kullanım Koşulları, Türkiye Cumhuriyeti kanunları (Borçlar Kanunu, 
+Türk Ticaret Kanunu, Tüketicinin Korunması Hakkında Kanun, Elektronik 
+Ticaretin Düzenlenmesi Hakkında Kanun, Sigorta Kanunu vb.) uyarınca 
+hazırlanmıştır.
+
+Bu metnin hazırlanmasında azami özen gösterilmiş olmakla birlikte, 
+yasal danışmanlık hizmeti yerine geçmez. Özel durumlarınız için 
+hukuk danışmanına başvurmanız önerilir.
+
+================================================================================
+
+SORUMLULUK REDDİ ÖZET
+
+⚠️ ÖNEMLİ HATIRLATMALAR:
+
+1. Tabu Sigorta ARACILIK hizmeti sunmaktadır
+2. Sigorta sözleşmelerinin TARAFI DEĞİLDİR
+3. Teminat, ödeme ve hasar SİGORTA ŞİRKETİ sorumluluğundadır
+4. Verdiğiniz bilgilerin doğruluğu SİZİN SORUMLULUĞUNUZDADIR
+5. Yanlış bilgi vermenin SONUÇLARI size aittir
+6. Platform kullanımı KENDİ RİSKİNİZDEDİR
+7. Mücbir sebepler nedeniyle sorumluluk KABUL EDİLMEZ
+8. Tazminat talebi SINIRLIdır
+9. Bu Kullanım Koşullarını kabul etmek ZORUNLUDUR
+10. Kabul etmiyorsanız, platformu KULLANMAYINIZ
+
+================================================================================
+
+© 2025 Tabu Sigorta - Tüm Hakları Saklıdır
+Son Güncelleme: Ekim 2025
+Versiyon: 1.0
+
+Bu metin Tabu Sigorta'ya aittir ve izinsiz kopyalanamaz, çoğaltılamaz.
+
+================================================================================
+
+

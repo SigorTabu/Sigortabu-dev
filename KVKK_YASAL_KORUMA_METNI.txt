@@ -1,0 +1,468 @@
+================================================================================
+              KİŞİSEL VERİLERİN KORUNMASI KANUNU AYDINLATMA METNİ
+                   VE GİZLİLİK POLİTİKASI - YASAL KORUMA
+================================================================================
+
+                            TABU SİGORTA
+            Sigorta Aracılık Hizmetleri - KVKK Kapsamlı Aydınlatma
+
+Son Güncelleme: Ekim 2025
+Versiyon: 2.0
+
+================================================================================
+
+GENEL HÜKÜMLER VE SORUMLULUK SINIRLAMALARI
+
+Bu metin, 6698 sayılı Kişisel Verilerin Korunması Kanunu ("KVKK") ve ilgili 
+mevzuat hükümleri çerçevesinde hazırlanmıştır. Web sitemizi kullanarak veya 
+hizmetlerimizden faydalanarak bu metni okuduğunuzu, anladığınızı ve kabul 
+ettiğinizi beyan etmiş sayılırsınız.
+
+================================================================================
+
+1. VERİ SORUMLUSU VE İLETİŞİM BİLGİLERİ
+
+Veri Sorumlusu: Tabu Sigorta Aracılık Hizmetleri
+E-posta: tabusigorta@gmail.com
+Telefon: 0538 218 4550
+
+Tabu Sigorta, sigorta aracılık hizmetleri kapsamında faaliyet göstermekte olup,
+sigorta şirketleri ile müşteriler arasında aracılık yapmaktadır. Sigorta 
+sözleşmelerinin tarafı sigorta şirketleridir.
+
+================================================================================
+
+2. TANIMLAR VE KISALTMALAR
+
+KVKK: 6698 sayılı Kişisel Verilerin Korunması Kanunu
+Kurul: Kişisel Verileri Koruma Kurulu
+Kurum: Kişisel Verileri Koruma Kurumu
+Veri Sorumlusu: Kişisel verilerin işleme amaçlarını ve vasıtalarını belirleyen,
+                veri kayıt sisteminin kurulmasından ve yönetilmesinden sorumlu 
+                olan gerçek veya tüzel kişi
+Kişisel Veri: Kimliği belirli veya belirlenebilir gerçek kişiye ilişkin her 
+              türlü bilgi
+İlgili Kişi: Kişisel verisi işlenen gerçek kişi
+
+================================================================================
+
+3. İŞLENEN KİŞİSEL VERİLER VE ÖZEL NİTELİKLİ VERİLER
+
+3.1. İŞLENEN KİŞİSEL VERİ KATEGORİLERİ:
+
+A) KİMLİK VERİSİ
+   - Ad, soyad, TC Kimlik Numarası, doğum tarihi ve yeri, cinsiyet, 
+     medeni hal, uyruk bilgisi
+
+B) İLETİŞİM VERİSİ
+   - Telefon numarası, e-posta adresi, açık adres, fatura adresi
+
+C) MÜŞTERİ İŞLEM VERİSİ
+   - Poliçe bilgileri, teklif bilgileri, hasar geçmişi, ödeme geçmişi,
+     sözleşme bilgileri, kampanya ve teklif tercihleri
+
+D) FİNANSAL VERİ
+   - Banka hesap numarası, IBAN bilgisi, kredi kartı bilgisi (son 4 hane),
+     ödeme geçmişi, fatura bilgileri
+
+E) İŞLEM GÜVENLİĞİ VERİSİ
+   - IP adresi, çerez bilgileri, kullanıcı oturum bilgileri, cihaz ID,
+     konum bilgisi, tarayıcı bilgisi
+
+F) ARAÇ VE SÜRÜCÜ BİLGİSİ (Araç Sigortası İçin)
+   - Plaka numarası, ruhsat bilgileri, şasi numarası, motor numarası,
+     sürücü belgesi bilgileri, trafik cezası geçmişi
+
+G) KONUT VE GAYRİMENKUL BİLGİSİ (Konut/DASK Sigortası İçin)
+   - Tapu bilgileri, bina yaşı, kat bilgisi, metrekare, hasar geçmişi
+
+H) SAĞLIK VERİSİ (Sadece Sağlık Sigortası İçin - Açık Rıza Gerektirir)
+   - Geçmiş hastalıklar, kronik rahatsızlıklar, ameliyat geçmişi,
+     kullanılan ilaçlar (Sigorta şirketine aktarılır, bizde saklanmaz)
+
+3.2. ÖZEL NİTELİKLİ KİŞİSEL VERİLER:
+
+Sağlık sigortası başvurularında KVKK'nın 6. maddesi kapsamında "özel nitelikli 
+kişisel veri" olan sağlık verileriniz, YALNIZCA açık rızanız ile toplanmakta 
+ve doğrudan sigorta şirketine aktarılmaktadır. Bu veriler sistemimizde 
+kalıcı olarak saklanmamakta, sadece teklif sürecinde geçici olarak 
+işlenmektedir.
+
+================================================================================
+
+4. KİŞİSEL VERİLERİN İŞLENME AMAÇLARI VE HUKUKİ SEBEPLERİ
+
+4.1. İŞLENME AMAÇLARI:
+
+a) Sigorta teklifi hazırlanması ve müşteriye sunulması
+b) Sigorta sözleşmelerinin kurulması, ifası ve yönetilmesi
+c) Müşteri ilişkileri yönetimi ve iletişim faaliyetleri
+d) Yasal yükümlülüklerin yerine getirilmesi (vergi, SGK vb.)
+e) Finans ve muhasebe işlemlerinin yürütülmesi
+f) Platform ve bilgi güvenliğinin sağlanması
+g) Müşteri memnuniyeti ölçümleri ve hizmet kalitesinin artırılması
+h) İstatistiksel analiz ve raporlama faaliyetleri
+i) Pazarlama ve tanıtım faaliyetleri (açık rızaya bağlı)
+j) Hukuki uyuşmazlıkların çözümü ve hak tesisi
+
+4.2. HUKUKİ SEBEPLER (KVKK md. 5 ve 6):
+
+✓ İlgili kişinin açık rızası
+✓ Sözleşmenin kurulması veya ifasıyla doğrudan doğruya ilgili olması
+✓ Veri sorumlusunun hukuki yükümlülüğünü yerine getirebilmesi için zorunlu 
+  olması
+✓ İlgili kişinin kendisi tarafından alenileştirilmiş olması
+✓ Bir hakkın tesisi, kullanılması veya korunması için veri işlemenin zorunlu 
+  olması
+✓ İlgili kişinin temel hak ve özgürlüklerine zarar vermemek kaydıyla, veri 
+  sorumlusunun meşru menfaatleri için veri işlenmesinin zorunlu olması
+
+================================================================================
+
+5. KİŞİSEL VERİLERİN AKTARILMASI VE ÜÇÜNCÜ KİŞİLER
+
+5.1. YURTİÇİ AKTARIM:
+
+Kişisel verileriniz, KVKK'nın 8. ve 9. maddeleri çerçevesinde ve yukarıda 
+belirtilen hukuki sebeplere dayanılarak aşağıdaki taraflara aktarılabilir:
+
+A) SİGORTA ŞİRKETLERİ
+   - Teklif hazırlanması ve poliçe düzenlenmesi amacıyla
+   - Hasar takibi ve tazminat işlemleri için
+   - Risk değerlendirmesi için
+
+B) YETKİLİ KAMU KURUM VE KURULUŞLARI
+   - Yasal yükümlülüklerin yerine getirilmesi için
+   - İlgili kamu otoritelerinin (vergi dairesi, SGK, mahkeme vb.) talepleri 
+     doğrultusunda
+
+C) HİZMET SAĞLAYICILARIMIZ
+   - IT altyapı hizmetleri sağlayıcılar
+   - Bulut depolama hizmet sağlayıcılar
+   - Ödeme altyapısı sağlayıcılar
+   - E-posta ve SMS hizmet sağlayıcılar
+   - Çağrı merkezi hizmet sağlayıcılar
+
+D) İŞ ORTAKLARIMIZ
+   - Yalnızca hizmet sunumu için gerekli olan veriler ve gerekli süre ile 
+     sınırlı olarak
+
+E) HUKUK DANIŞMANLARI VE AVUKATLAR
+   - Hukuki uyuşmazlıkların çözümü için gerekli olduğu durumlarda
+
+F) DENETÇİLER VE BAĞIMSIZ DENETİM ŞİRKETLERİ
+   - Yasal denetim yükümlülüklerinin yerine getirilmesi için
+
+5.2. YURTDIŞI AKTARIM:
+
+Kişisel verileriniz, KVKK'nın 9. maddesi uyarınca ve ilgili mevzuat 
+çerçevesinde, yalnızca:
+
+- İlgili ülkede yeterli korumanın bulunması veya
+- Yeterli korumanın bulunmaması durumunda Türkiye ile ilgili ülkenin veri 
+  sorumluları tarafından yazılı taahhütte bulunulması ve Kurul'un izninin 
+  alınması kaydıyla
+
+yurt dışına aktarılabilir. Şu an itibarıyla yurt dışı veri aktarımı 
+yapılmamaktadır.
+
+================================================================================
+
+6. KİŞİSEL VERİLERİN TOPLANMA YÖNTEMİ
+
+Kişisel verileriniz aşağıdaki yöntemlerle toplanmaktadır:
+
+- Web sitesi üzerinden (online form, teklif talebi)
+- E-posta yoluyla
+- Telefon görüşmeleri (kayıt altına alınabilir)
+- WhatsApp ve diğer mesajlaşma uygulamaları
+- Sosyal medya kanalları
+- Şahsen başvuru
+- Sigorta şirketlerinden (daha önce aldığınız poliçelerle ilgili)
+
+================================================================================
+
+7. KİŞİSEL VERİLERİN SAKLANMA SÜRESİ
+
+7.1. GENEL İLKE:
+
+Kişisel verileriniz, işleme amacının gerektirdiği süre boyunca ve/veya ilgili 
+mevzuatta öngörülen süreler boyunca saklanacaktır. Bu sürelerin bitiminde, 
+kişisel verileriniz silinir, yok edilir veya anonim hale getirilir.
+
+7.2. SAKLAMA SÜRELERİ:
+
+- Poliçe bilgileri: Poliçe sona erdiği tarihten itibaren 10 yıl (Türk Ticaret 
+  Kanunu md. 82)
+- Fatura ve muhasebe kayıtları: 10 yıl (Vergi Usul Kanunu md. 253)
+- İş görüşmeleri ve yazışmalar: 5 yıl (Borçlar Kanunu zamanaşımı)
+- Pazarlama izni: İzin geri alındığı tarihe kadar
+- Web sitesi log kayıtları: 2 yıl (Bilgi Güvenliği için)
+- Hasar kayıtları: 10 yıl
+
+7.3. İMHA:
+
+Saklama süreleri sona eren kişisel veriler, Kurul tarafından belirlenen "Kişisel 
+Verilerin Silinmesi, Yok Edilmesi veya Anonim Hale Getirilmesi Hakkında 
+Yönetmelik" uyarınca imha edilir.
+
+================================================================================
+
+8. KİŞİSEL VERİ SAHİBİNİN HAKLARI (KVKK md. 11)
+
+İlgili kişi olarak, aşağıdaki haklara sahipsiniz:
+
+a) Kişisel veri işlenip işlenmediğini öğrenme
+b) İşlenmişse buna ilişkin bilgi talep etme
+c) İşlenme amacını ve amacına uygun kullanılıp kullanılmadığını öğrenme
+d) Yurt içinde/dışında aktarılan üçüncü kişileri bilme
+e) Eksik/yanlış işlenmiş verilerin düzeltilmesini isteme
+f) KVKK md. 7 şartları çerçevesinde silinmesini/yok edilmesini isteme
+g) Düzeltme/silme/yok etme işlemlerinin üçüncü kişilere bildirilmesini isteme
+h) Münhasıran otomatik sistemlerle analiz edilmesi sonucu aleyhine bir sonuç 
+   çıkmasına itiraz etme
+i) Kanuna aykırı işleme nedeniyle zararın giderilmesini talep etme
+
+================================================================================
+
+9. BAŞVURU HAKKI VE YÖNTEMİ
+
+9.1. BAŞVURU YOLLARI:
+
+Haklarınızı kullanmak için başvurunuzu aşağıdaki yollarla yapabilirsiniz:
+
+A) YAZILI BAŞVURU (Kimlik ibrazı ile):
+   Tabu Sigorta - KVKK Başvuru
+   (Adres bilgisi eklenecek)
+
+B) KEP ADRESİ:
+   (KEP adresi varsa eklenecek)
+
+C) NOTER YOLUYLA
+
+D) E-POSTA (Güvenli elektronik imza/mobil imza ile):
+   tabusigorta@gmail.com
+
+9.2. BAŞVURU FORMU:
+
+Başvurularınızda:
+- Adınız, soyadınız
+- TC Kimlik Numaranız
+- Tebligat adresiniz
+- Varsa e-posta adresi ve telefon numaranız
+- Talep konunuz
+- Kimlik tespitine yarayacak bilgi ve belgeler
+
+bulunmalıdır.
+
+9.3. CEVAPLAMA SÜRESİ:
+
+Başvurularınız, talebin niteliğine göre EN GEÇ 30 (OTUZ) GÜN içinde ÜCRETSİZ 
+olarak sonuçlandırılacaktır. 
+
+Ancak, işlemin ayrıca bir maliyeti gerektirmesi halinde, Kurul'un belirlediği 
+tarifedeki ücret alınacaktır:
+
+- 1-5 sayfa arası başvuru: 10 TL (+ KDV)
+- 6-10 sayfa arası başvuru: 20 TL (+ KDV)
+- Yazılı başvuru: 50 TL (+ KDV)
+- CD/Flash bellek: 75 TL (+ KDV)
+
+================================================================================
+
+10. VERİ GÜVENLİĞİ VE TEKNİK/İDARİ TEDBİRLER
+
+KVKK'nın 12. maddesi uyarınca, kişisel verilerinizin güvenliğini sağlamak için 
+aşağıdaki teknik ve idari tedbirler alınmıştır:
+
+TEKNİK TEDBİRLER:
+✓ 256-bit SSL/TLS şifreleme
+✓ Güvenlik duvarı (Firewall) sistemleri
+✓ Saldırı tespit ve önleme sistemleri (IDS/IPS)
+✓ Düzenli güvenlik taramaları ve penetrasyon testleri
+✓ Veri yedekleme ve kurtarma sistemleri
+✓ Erişim loglarının tutulması ve izlenmesi
+✓ Antivirüs ve anti-malware sistemleri
+
+İDARİ TEDBİRLER:
+✓ Personel eğitimleri ve farkındalık programları
+✓ Gizlilik sözleşmeleri ve gizlilik taahhütnameleri
+✓ Yetki matrisleri ve rol bazlı erişim kontrolü
+✓ Veri işleme envanteri tutulması
+✓ Periyodik risk değerlendirmeleri
+✓ Veri güvenliği politikalarının oluşturulması ve güncellenmesi
+✓ Veri ihlali müdahale planı
+
+================================================================================
+
+11. VERİ İHLALİ BİLDİRİMİ
+
+KVKK'nın 12/5 maddesi uyarınca, kişisel verilerin kanuni olmayan yollarla 
+başkaları tarafından elde edilmesi halinde, bu durum en kısa sürede ilgili 
+kişiye ve Kurul'a bildirilecektir.
+
+Veri ihlali durumunda:
+1. Durum derhal tespit edilir ve kayıt altına alınır
+2. İhlal değerlendirilir ve etkilenen veriler belirlenir
+3. Gerekli önlemler alınır
+4. Kurul'a 72 saat içinde bildirim yapılır
+5. Etkilenen kişilere bilgilendirme yapılır
+6. İyileştirme faaliyetleri başlatılır
+
+================================================================================
+
+12. ÇEREZ (COOKIE) POLİTİKASI
+
+12.1. ÇEREZ KULLANIMI:
+
+Web sitemizde, kullanıcı deneyimini iyileştirmek, site performansını analiz 
+etmek ve kişiselleştirilmiş içerik sunmak amacıyla çerezler kullanılmaktadır.
+
+12.2. ÇEREZ TÜRLERİ:
+
+A) ZORUNLU ÇEREZLER
+   - Sitenin çalışması için gerekli
+   - Rıza gerektirmez
+
+B) İŞLEVSEL ÇEREZLER
+   - Kullanıcı tercihlerini hatırlar
+   - Açık rıza gerektirir
+
+C) ANALİTİK ÇEREZLER
+   - Site trafiğini ve kullanımını analiz eder (Google Analytics vb.)
+   - Açık rıza gerektirir
+
+D) REKLAM/HEDEFLEMe ÇEREZLER
+   - Kişiselleştirilmiş reklamlar sunar
+   - Açık rıza gerektirir
+
+12.3. ÇEREZ YÖNETİMİ:
+
+Tarayıcı ayarlarınızdan çerezleri reddedebilir veya silebilirsiniz. Ancak bu 
+durumda, web sitesinin bazı özellikleri düzgün çalışmayabilir.
+
+================================================================================
+
+13. SORUMLULUK SINIRLAMALARI VE YASAL UYARILAR
+
+13.1. ARACILI FAALİYETİ:
+
+Tabu Sigorta, sigorta aracılık hizmetleri sunmaktadır. Sigorta sözleşmelerinin 
+TARAFI DEĞİLDİR. Sigorta teminatları, ödemeler, hasar ödemeleri vb. 
+konulardan sigorta şirketleri sorumludur.
+
+13.2. BİLGİ DOĞRULUĞU:
+
+Bize bildirdiğiniz bilgilerin DOĞRU, GÜNCEL ve EKSI olmadığını beyan ve taahhüt 
+etmektesiniz. Yanlış, eksik veya yanıltıcı bilgi verilmesinden doğacak 
+sonuçlardan Tabu Sigorta sorumlu DEĞİLDİR.
+
+13.3. ÜÇÜNCÜ KİŞİ VERİ İŞLEME:
+
+Hizmet sağlayıcılarımız ve sigorta şirketleri, veri işleyici sıfatıyla 
+kendilerine aktarılan verilerden, kendi sistemlerinde meydana gelebilecek 
+ihlallerden BAĞIMSIZ OLARAK SORUMLUDUR.
+
+13.4. MÜCBIR SEBEPLER:
+
+Doğal afetler, savaş, terör saldırısı, siber saldırılar, resmi otoritelerin 
+işlemleri gibi mücbir sebeplerle oluşabilecek veri kayıplarından Tabu Sigorta 
+sorumlu tutulamaz.
+
+13.5. GÜNCELLEME SORUMLULUĞU:
+
+Kişisel bilgilerinizde meydana gelen değişiklikleri (adres, telefon, e-posta 
+vb.) BİZE BİLDİRMEK SİZİN SORUMLULUĞUNUZDADIR. Güncel olmayan bilgiler 
+nedeniyle oluşacak sorunlardan Tabu Sigorta sorumlu değildir.
+
+13.6. HUKUKİ UYUŞMAZLIKLAR:
+
+Bu metinden doğabilecek uyuşmazlıklarda İstanbul (Merkez) Mahkemeleri ve İcra 
+Daireleri yetkilidir.
+
+================================================================================
+
+14. POLİTİKA DEĞİŞİKLİKLERİ
+
+Bu politika, yasal düzenlemelerdeki değişiklikler, teknolojik gelişmeler veya 
+iş süreçlerindeki değişiklikler nedeniyle güncellenebilir.
+
+Önemli değişiklikler:
+- Web sitemizde yayınlanır
+- E-posta ile bildirim yapılabilir
+- Yayınlanma tarihinde yürürlüğe girer
+
+Web sitemizi kullanmaya devam ederek güncel politikayı kabul etmiş sayılırsınız.
+
+================================================================================
+
+15. AYDINLATMA YÜKÜMLÜLÜĞÜ
+
+Bu metin, KVKK'nın 10. maddesi uyarınca, kişisel verilerinizin elde edilmesi 
+sırasında sizleri bilgilendirme (aydınlatma) yükümlülüğümüzü yerine getirmek 
+amacıyla hazırlanmıştır.
+
+Bu metni okuduğunuzu, anladığınızı ve hizmetlerimizi kullanmakla bu metni 
+KABUL ETTİĞİNİZİ beyan edersiniz.
+
+================================================================================
+
+16. İLETİŞİM VE KVKK SORUMLUSU
+
+KVKK kapsamındaki tüm talepleriniz için:
+
+Tabu Sigorta - KVKK Birimi
+E-posta: tabusigorta@gmail.com
+Telefon: 0538 218 4550
+
+KVKK Uyum Sorumlusu: (Belirlenecek)
+
+Çalışma Saatleri: Hafta içi 09:00 - 18:00
+
+================================================================================
+
+EKLER
+
+EK-1: AÇIK RIZA BEYANI (Özel Nitelikli Veriler İçin)
+EK-2: AÇIK RIZA BEYANI (Pazarlama İçin)
+EK-3: KVKK BAŞVURU FORMU
+EK-4: VERİ SAHİBİ BAŞVURU FORMU
+
+(Bu ekler ayrı dokümanlar olarak hazırlanmalıdır)
+
+================================================================================
+
+YASAL BEYAN
+
+Bu metin 6698 sayılı Kişisel Verilerin Korunması Kanunu, ilgili yönetmelikler
+ve Kişisel Verileri Koruma Kurulu kararları uyarınca hazırlanmıştır.
+
+Bu metnin hazırlanmasında azami özen gösterilmiş olmakla birlikte, yasal 
+danışmanlık hizmeti yerine geçmez. Özel durumlarınız için hukuk danışmanına 
+başvurmanız önerilir.
+
+================================================================================
+
+ONAY VE KABUL
+
+İşbu KVKK Aydınlatma Metni'ni okudum, anladım ve kabul ediyorum.
+
+Kişisel verilerimin yukarıda belirtilen kapsamda işlenmesini, aktarılmasını 
+ve saklanmasını KABUL EDİYORUM.
+
+Tarih: ..... / ..... / .........
+
+Ad Soyad: ............................
+
+İmza: ............................
+
+================================================================================
+
+© 2025 Tabu Sigorta - Tüm Hakları Saklıdır
+Son Güncelleme: Ekim 2025
+Versiyon: 2.0 - Yasal Koruma
+
+Bu metin Tabu Sigorta'ya aittir ve izinsiz kopyalanamaz, çoğaltılamaz.
+
+================================================================================
+

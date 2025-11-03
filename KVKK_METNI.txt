@@ -1,0 +1,226 @@
+================================================================================
+                  KİŞİSEL VERİLERİN KORUNMASI KANUNU
+                     VE GİZLİLİK POLİTİKASI
+================================================================================
+
+                            TABU SİGORTA
+            Sigorta Aracılık Hizmetleri - KVKK Aydınlatma Metni
+
+Son Güncelleme: Ekim 2025
+
+================================================================================
+
+⚠️ ÖNEMLİ BİLGİLENDİRME
+
+Tabu Sigorta olarak, 6698 sayılı Kişisel Verilerin Korunması Kanunu ("KVKK") 
+uyarınca, kişisel verilerinizin güvenliği konusunda azami hassasiyeti 
+göstermekteyiz. Bu metin, kişisel verilerinizin işlenmesine ilişkin usul ve 
+esasları açıklamaktadır.
+
+================================================================================
+
+1. VERİ SORUMLUSU
+
+KVKK uyarınca, kişisel verileriniz veri sorumlusu sıfatıyla Tabu Sigorta 
+Aracılık Hizmetleri tarafından aşağıda açıklanan kapsamda işlenebilecektir.
+
+Ticaret Unvanı: Tabu Sigorta
+E-posta: tabusigorta@gmail.com
+Telefon: 0538 218 4550
+
+================================================================================
+
+2. İŞLENEN KİŞİSEL VERİLER
+
+Toplanan Veriler:
+
+• KİMLİK BİLGİLERİ
+  - Ad, soyad
+  - TC kimlik numarası
+  - Doğum tarihi
+
+• İLETİŞİM BİLGİLERİ
+  - Telefon numarası
+  - E-posta adresi
+  - Adres bilgileri
+
+• MÜŞTERİ İŞLEM BİLGİLERİ
+  - Sigorta teklif bilgileri
+  - Poliçe bilgileri
+  - Ödeme bilgileri
+
+• İŞLEM GÜVENLİĞİ BİLGİLERİ
+  - IP adresi
+  - Çerez kayıtları
+  - Cihaz bilgileri
+
+• ARAÇ BİLGİLERİ (Araç sigortası için)
+  - Plaka numarası
+  - Ruhsat bilgileri
+
+================================================================================
+
+3. KİŞİSEL VERİLERİN İŞLENME AMAÇLARI
+
+Kişisel verileriniz aşağıdaki amaçlarla işlenmektedir:
+
+• Sigorta teklifi hazırlanması ve sunulması
+
+• Sigorta sözleşmelerinin akdedilmesi ve yönetilmesi
+
+• Müşteri ilişkileri yönetimi ve müşteri memnuniyetinin sağlanması
+
+• Yasal yükümlülüklerin yerine getirilmesi
+
+• İletişim ve bilgilendirme faaliyetlerinin yürütülmesi
+
+• Finans ve muhasebe işlemlerinin yürütülmesi
+
+• Platform güvenliğinin sağlanması
+
+================================================================================
+
+4. KİŞİSEL VERİLERİN AKTARIMI
+
+Kişisel verileriniz, KVKK'da öngörülen temel ilkelere uygun olarak ve KVKK'nın 
+8. ve 9. maddelerinde belirtilen kişisel veri işleme şartları dahilinde:
+
+• Sigorta şirketlerine
+  (Teklif hazırlama ve poliçe düzenleme için)
+
+• Yetkili kamu kurum ve kuruluşlarına
+  (Yasal yükümlülükler çerçevesinde)
+
+• Hizmet sağlayıcı firmalarımıza
+  (IT altyapı, ödeme sistemleri vb.)
+
+• İş ortaklarımıza
+  (Hizmet sunumu için gerekli olduğu ölçüde)
+
+aktarılabilmektedir.
+
+================================================================================
+
+5. KİŞİSEL VERİ TOPLAMANIN YÖNTEMİ VE HUKUKİ SEBEBİ
+
+Kişisel verileriniz, elektronik ortamda (web sitesi, mobil uygulama, e-posta, 
+çağrı merkezi) toplanmakta ve KVKK'nın 5. ve 6. maddelerinde belirtilen:
+
+• Açık rızanızın bulunması
+
+• Sözleşmenin kurulması veya ifasıyla doğrudan ilgili olması
+
+• Yasal yükümlülüğün yerine getirilmesi
+
+• İlgili kişinin temel hak ve özgürlüklerine zarar vermemek kaydıyla 
+  meşru menfaatler
+
+hukuki sebeplerine dayanılarak işlenmektedir.
+
+================================================================================
+
+6. KİŞİSEL VERİ SAHİBİNİN HAKLARI
+
+KVKK'nın 11. maddesi uyarınca, kişisel veri sahipleri olarak aşağıdaki 
+haklara sahipsiniz:
+
+a) Kişisel verilerinizin işlenip işlenmediğini öğrenme
+
+b) Kişisel verileriniz işlenmişse buna ilişkin bilgi talep etme
+
+c) Kişisel verilerin işlenme amacını ve bunların amacına uygun kullanılıp 
+   kullanılmadığını öğrenme
+
+d) Yurt içinde veya yurt dışında kişisel verilerin aktarıldığı üçüncü 
+   kişileri bilme
+
+e) Kişisel verilerin eksik veya yanlış işlenmiş olması hâlinde bunların 
+   düzeltilmesini isteme
+
+f) KVKK'nın 7. maddesinde öngörülen şartlar çerçevesinde kişisel verilerin 
+   silinmesini veya yok edilmesini isteme
+
+g) Kişisel verilerin düzeltilmesi, silinmesi veya yok edilmesi halinde bu 
+   işlemlerin kişisel verilerin aktarıldığı üçüncü kişilere bildirilmesini 
+   isteme
+
+h) İşlenen verilerin münhasıran otomatik sistemler vasıtasıyla analiz 
+   edilmesi suretiyle kişinin kendisi aleyhine bir sonucun ortaya çıkmasına 
+   itiraz etme
+
+i) Kişisel verilerin kanuna aykırı olarak işlenmesi sebebiyle zarara 
+   uğraması hâlinde zararın giderilmesini talep etme
+
+================================================================================
+
+7. BAŞVURU YÖNTEMİ
+
+Yukarıda belirtilen haklarınızı kullanmak için başvurunuzu aşağıdaki 
+yöntemlerle yapabilirsiniz:
+
+• E-posta:
+  tabusigorta@gmail.com
+
+• Telefon:
+  0538 218 4550
+
+NOT: Başvurularınız, talebin niteliğine göre en geç 30 (otuz) gün içinde 
+ücretsiz olarak sonuçlandırılacaktır. İşlemin ayrıca bir maliyet gerektirmesi 
+halinde, Kişisel Verileri Koruma Kurulu tarafından belirtilen tarifedeki 
+ücret alınabilir.
+
+================================================================================
+
+8. VERİ GÜVENLİĞİ
+
+Tabu Sigorta olarak, kişisel verilerinizin güvenliğini sağlamak için gerekli 
+tüm teknik ve idari tedbirleri almaktayız:
+
+• 256-bit SSL şifreleme
+• Güvenli sunucu altyapısı
+• Düzenli güvenlik denetimleri
+• Yetkisiz erişim kontrolü
+• Periyodik veri yedekleme
+• Personel eğitimleri
+
+================================================================================
+
+9. ÇEREZ POLİTİKASI
+
+Web sitemizde kullanıcı deneyimini iyileştirmek amacıyla çerezler 
+kullanılmaktadır. Çerezler hakkında detaylı bilgi için lütfen web sitemizi 
+ziyaret ediniz.
+
+================================================================================
+
+10. POLİTİKA DEĞİŞİKLİKLERİ
+
+Bu politika, yasal düzenlemelerdeki değişiklikler veya şirket 
+politikalarındaki güncellemeler doğrultusunda değiştirilebilir. Değişiklikler 
+web sitemizde yayınlandığı tarihte yürürlüğe girer.
+
+================================================================================
+
+11. İLETİŞİM
+
+KVKK kapsamındaki talepleriniz veya sorularınız için:
+
+Tabu Sigorta
+E-posta: tabusigorta@gmail.com
+Telefon: 0538 218 4550
+Web: www.tabusigorta.com
+
+================================================================================
+
+Bu metin, 6698 sayılı Kişisel Verilerin Korunması Kanunu uyarınca 
+hazırlanmıştır ve tüm müşterilerimizi bilgilendirme amacı taşımaktadır.
+
+Kişisel verilerinizin korunması bizim için önceliklidir.
+
+                            TABU SİGORTA
+                     Güvenilir Sigorta Çözümleri
+
+================================================================================
+                        SON GÜNCELLEME: EKİM 2025
+================================================================================
+

@@ -1,0 +1,218 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Layout for App to push footer to bottom */
+#root {
+  @apply flex flex-col min-h-screen;
+}
+
+.App {
+  @apply flex-1 flex flex-col;
+}
+
+/* Global Stil ve Animasyonlar */
+@layer base {
+  html {
+    @apply scroll-smooth overflow-x-hidden;
+  }
+
+  body {
+    @apply font-sans antialiased text-dark-900 bg-light-50 overflow-x-hidden;
+  }
+
+  /* Genel Başlıklar */
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-display font-bold text-dark-900;
+  }
+
+  /* Buton Stilleri */
+  .btn-primary {
+    @apply bg-primary text-white hover:bg-primary-600 focus:ring-2 focus:ring-primary-500 focus:ring-offset-2;
+  }
+
+  .btn-secondary {
+    @apply bg-secondary text-white hover:bg-secondary-600 focus:ring-2 focus:ring-secondary-500 focus:ring-offset-2;
+  }
+
+  .btn-outline {
+    @apply border border-primary text-primary hover:bg-primary hover:text-white;
+  }
+}
+
+/* Özel Animasyonlar */
+@layer utilities {
+  .animate-fade-in-left {
+    animation: fade-in-left 0.8s ease-out;
+  }
+
+  .animate-fade-in-right {
+    animation: fade-in-right 0.8s ease-out;
+  }
+
+  .animate-pulse-soft {
+    animation: pulse-soft 2s ease-in-out infinite;
+  }
+
+  .animate-blob {
+    animation: blob 7s infinite;
+  }
+
+  .animation-delay-2000 {
+    animation-delay: 2s;
+  }
+}
+
+/* Geçiş Efektleri */
+.transition-smooth {
+  @apply transition duration-300 ease-in-out;
+}
+
+/* Hover Efektleri */
+.hover-lift {
+  @apply transform transition-transform duration-300 hover:-translate-y-2 hover:shadow-lg;
+}
+
+/* Gradient Arka Planlar */
+.gradient-primary {
+  @apply bg-gradient-primary;
+}
+
+.gradient-secondary {
+  @apply bg-gradient-secondary;
+}
+
+/* Gölge Stilleri */
+.shadow-soft {
+  @apply shadow-sm;
+}
+
+.shadow-medium {
+  @apply shadow;
+}
+
+.shadow-hard {
+  @apply shadow-lg;
+}
+
+/* Form Stilleri */
+.form-input {
+  @apply block w-full rounded-md border-gray-300 shadow-sm focus:border-primary focus:ring focus:ring-primary focus:ring-opacity-50;
+}
+
+/* Kartlar */
+.card {
+  @apply bg-white rounded-lg shadow-sm hover:shadow transition-shadow duration-300;
+}
+
+/* Responsive Tipografi */
+@screen sm {
+  body {
+    @apply text-base;
+  }
+}
+
+@screen md {
+  body {
+    @apply text-lg;
+  }
+}
+
+/* Erişilebilirlik */
+@layer base {
+  :focus {
+    @apply outline-none ring-2 ring-primary-500 ring-offset-2;
+  }
+}
+
+/* Scrollbar Özelleştirme */
+::-webkit-scrollbar {
+  @apply w-2 bg-light-100;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-primary-500 rounded-full;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-primary-600;
+}
+
+/* Tema Geçişleri */
+@keyframes fade-in-left {
+  0% {
+    opacity: 0;
+    transform: translateX(-20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes fade-in-right {
+  0% {
+    opacity: 0;
+    transform: translateX(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes pulse-soft {
+  0%, 100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.05);
+  }
+}
+
+@keyframes blob {
+  0% {
+    transform: translate(0px, 0px) scale(1);
+  }
+  33% {
+    transform: translate(30px, -50px) scale(1.1);
+  }
+  66% {
+    transform: translate(-20px, 20px) scale(0.9);
+  }
+  100% {
+    transform: translate(0px, 0px) scale(1);
+  }
+}
+
+/* Auth Page Animasyonları */
+@keyframes shake {
+  0%, 100% {
+    transform: translateX(0);
+  }
+  10%, 30%, 50%, 70%, 90% {
+    transform: translateX(-5px);
+  }
+  20%, 40%, 60%, 80% {
+    transform: translateX(5px);
+  }
+}
+
+@keyframes bounce-slow {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-5px);
+  }
+}
+
+.animate-shake {
+  animation: shake 0.5s ease-in-out;
+}
+
+.animate-bounce-slow {
+  animation: bounce-slow 1s ease-in-out;
+}

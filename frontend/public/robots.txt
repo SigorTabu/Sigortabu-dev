@@ -1,0 +1,40 @@
+# Tabu Sigorta - robots.txt
+# Tüm arama motorlarına açık
+
+User-agent: *
+Allow: /
+
+# Özel sayfalar
+Allow: /services
+Allow: /blog
+Allow: /about
+Allow: /contact
+Allow: /faq
+Allow: /kvkk
+Allow: /terms
+
+# Engellenecek sayfalar (Özel/Gizli)
+Disallow: /dashboard
+Disallow: /admin
+Disallow: /auth
+
+# Sitemap konumu
+Sitemap: https://www.sigortabu.net/sitemap.xml
+
+# Botlar için bekleme süresi (saniye)
+Crawl-delay: 1
+
+# Google botları için özel kurallar
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+# Bing botları için özel kurallar
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+# Yandex botları için özel kurallar
+User-agent: Yandex
+Allow: /
+

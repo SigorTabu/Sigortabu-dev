@@ -1,0 +1,8 @@
+# Netlify Redirects
+# SPA için tüm route'ları index.html'e yönlendir
+
+/*    /index.html   200
+
+# HTTPS redirect (Netlify otomatik yapar ama garanti için)
+http://*  https://:splat  301!
+

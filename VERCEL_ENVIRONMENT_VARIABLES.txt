@@ -1,0 +1,33 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  VERCEL ENVIRONMENT VARIABLES
+  Kopyalayıp Yapıştırın (7 adet)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. REACT_APP_FIREBASE_API_KEY
+   AIzaSyATLhV85GekZ8enQnz2Nt5VDupf7BTp8BY
+
+2. REACT_APP_FIREBASE_AUTH_DOMAIN
+   tabu-sigorta.firebaseapp.com
+
+3. REACT_APP_FIREBASE_PROJECT_ID
+   tabu-sigorta
+
+4. REACT_APP_FIREBASE_STORAGE_BUCKET
+   tabu-sigorta.firebasestorage.app
+
+5. REACT_APP_FIREBASE_MESSAGING_SENDER_ID
+   134137097267
+
+6. REACT_APP_FIREBASE_APP_ID
+   1:134137097267:web:45eca7ee9392ef4f89c746
+
+7. REACT_APP_GA_MEASUREMENT_ID
+   G-2WXQDGC73V
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Her biri için:
+✓ Production
+✓ Preview
+✓ Development
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+

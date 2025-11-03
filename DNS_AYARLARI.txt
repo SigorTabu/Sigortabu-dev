@@ -1,0 +1,33 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  DNS AYARLARI - www.sigortabu.net
+  Domain Sağlayıcınıza Ekleyin
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+KAYIT 1: A Record
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Type:       A
+Name/Host:  @  (veya root veya boş)
+Value:      76.76.21.21
+TTL:        3600  (veya Automatic)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+KAYIT 2: CNAME Record
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Type:       CNAME
+Name/Host:  www
+Value:      cname.vercel-dns.com
+TTL:        3600  (veya Automatic)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+NOT:
+- Name/Host kısmı domain sağlayıcınıza göre değişebilir
+- Bazıları @ yerine "root" kullanır
+- Bazıları "sigortabu.net" yazmanızı ister
+- TTL: 3600 (1 saat) veya Auto seçin
+
+DNS yayılma süresi: 1-24 saat (genelde 1-4 saat)
+
+Kontrol: https://dnschecker.org → www.sigortabu.net
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
