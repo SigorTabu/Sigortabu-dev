@@ -249,60 +249,79 @@ function App() {
       <HelmetProvider>
         <Router>
           <AuthProvider>
-          <AnalyticsTracker />
-          <div className="App">
-            <AccessibilityHelper />
-            <Navbar />
-            <Breadcrumbs />
-            <main id="main-content">
-              <Suspense fallback={<LoadingSpinner size="lg" text="Yükleniyor..." fullScreen={true} />}>
-              <Routes>
-              <Route path="/" element={<HomePage />} />
-            <Route path="/about" element={<AboutPage />} />
-            <Route path="/services" element={<ServicesPage />} />
-            <Route 
-              path="/services/:serviceType" 
-              element={<ServiceDetail />} 
-            />
-            <Route path="/quote" element={<QuotePage />} />
-            <Route path="/auth" element={<AuthPage />} />
-            <Route 
-              path="/dashboard" 
-              element={
-                <ProtectedRoute>
-                  <UserDashboard />
-                </ProtectedRoute>
-              } 
-            />
-            <Route 
-              path="/admin" 
-              element={
-                <ProtectedRoute>
-                  <AdminDashboard />
-                </ProtectedRoute>
-              } 
-            />
-            <Route path="/blog" element={<BlogPage />} />
-            <Route path="/faq" element={<FAQPage />} />
-            <Route path="/kvkk" element={<KVKKPage />} />
-            <Route path="/terms" element={<TermsPage />} />
-            <Route path="/privacy" element={<PrivacyPage />} />
-            <Route path="/cookies" element={<CookiesPage />} />
-            <Route path="/contact" element={<ContactPage />} />
-            <Route path="*" element={<NotFoundPage />} />
-              </Routes>
-              </Suspense>
-            </main>
-          <QuickQuotePopup />
-          <WhatsAppFloating />
-          <ScrollToTop />
-          <LiveChat />
-          <CookieBanner />
-          <Footer />
-        </div>
-      </AuthProvider>
-    </Router>
-    </HelmetProvider>
+            <AnalyticsTracker />
+            <div className="App">
+              <AccessibilityHelper />
+              <Navbar />
+              <Breadcrumbs />
+              <main id="main-content">
+                <Suspense
+                  fallback={
+                    <LoadingSpinner
+                      size="lg"
+                      text="Yükleniyor..."
+                      fullScreen={true}
+                    />
+                  }
+                >
+                  <Routes>
+                    <Route path="/" element={<HomePage />} />
+                    <Route path="/about" element={<AboutPage />} />
+                    <Route path="/services" element={<ServicesPage />} />
+                    <Route
+                      path="/services/:serviceType"
+                      element={<ServiceDetail />}
+                    />
+                    <Route path="/quote" element={<QuotePage />} />
+                    <Route path="/auth" element={<AuthPage />} />
+                    <Route
+                      path="/dashboard"
+                      element={
+                        <ProtectedRoute>
+                          <UserDashboard />
+                        </ProtectedRoute>
+                      }
+                    />
+                    <Route
+                      path="/admin"
+                      element={
+                        <ProtectedRoute>
+                          <AdminDashboard />
+                        </ProtectedRoute>
+                      }
+                    />
+                    <Route path="/blog" element={<BlogPage />} />
+                    <Route path="/faq" element={<FAQPage />} />
+                    <Route path="/kvkk" element={<KVKKPage />} />
+                    <Route path="/terms" element={<TermsPage />} />
+                    <Route path="/privacy" element={<PrivacyPage />} />
+                    <Route path="/cookies" element={<CookiesPage />} />
+                    <Route path="/contact" element={<ContactPage />} />
+                    <Route path="*" element={<NotFoundPage />} />
+                  </Routes>
+                </Suspense>
+              </main>
+              <QuickQuotePopup />
+              <WhatsAppFloating />
+              <ScrollToTop />
+              <LiveChat />
+              <CookieBanner />
+              <Footer />
+
+              {/* 🚀 TEST MESAJI */}
+              <div
+                style={{
+                  textAlign: "center",
+                  marginTop: "20px",
+                  color: "#0070f3",
+                }}
+              >
+                🚀 Yeni deploy testi başarılı!
+              </div>
+            </div>
+          </AuthProvider>
+        </Router>
+      </HelmetProvider>
     </ErrorBoundary>
   );
 }
