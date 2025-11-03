@@ -307,17 +307,6 @@ function App() {
               <LiveChat />
               <CookieBanner />
               <Footer />
-
-              {/* 🚀 TEST MESAJI */}
-              <div
-                style={{
-                  textAlign: "center",
-                  marginTop: "20px",
-                  color: "#0070f3",
-                }}
-              >
-                🚀 Yeni deploy testi başarılı!
-              </div>
             </div>
           </AuthProvider>
         </Router>
